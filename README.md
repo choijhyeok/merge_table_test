@@ -16,5 +16,5 @@ PyMuPDF를 사용하여 PDF 내 테이블을 탐지하고, GPT를 활용해 병�
 ## 실행 방법
 1. 가상환경 생성 및 패키지 설치
    ```bash
-   uv venv
-   uv pip install -r requirements.txt
+   uv venv .venv
+   uv sync
